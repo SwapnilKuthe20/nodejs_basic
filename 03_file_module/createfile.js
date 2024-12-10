@@ -1,0 +1,1 @@
+console.log("This file created by createFile function using file_module.");
